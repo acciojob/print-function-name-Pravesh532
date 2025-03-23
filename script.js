@@ -3,3 +3,4 @@ function fetname(){
 
 	alert(fetname.name);
 }
+fetname();
